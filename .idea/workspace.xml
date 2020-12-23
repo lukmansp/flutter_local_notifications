@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e6a1b39-194f-4b55-874f-3482003d043d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_local_notifications.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_local_notifications.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_local_notifications/android/src/main/java/com/dexterous/flutterlocalnotifications/FlutterLocalNotificationsPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_local_notifications/android/src/main/java/com/dexterous/flutterlocalnotifications/FlutterLocalNotificationsPlugin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_local_notifications/android/src/main/java/com/dexterous/flutterlocalnotifications/RepeatInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_local_notifications/android/src/main/java/com/dexterous/flutterlocalnotifications/RepeatInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_local_notifications_platform_interface/lib/src/types.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_local_notifications_platform_interface/lib/src/types.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
